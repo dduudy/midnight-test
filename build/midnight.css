@@ -80,7 +80,7 @@ body {
     }
     .actionButton_f8fa06 /* circle button at the progress bar of videos and audio files */ {
         border: none;
-        background: var(--accent-4)!important;
+        background: var(--blue-4)!important;
     }
     .guilds_c48ade /* server list */ {
         margin-bottom: calc(var(--custom-app-panels-height, 0) + var(--gap));
