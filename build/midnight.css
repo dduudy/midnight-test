@@ -982,8 +982,10 @@ body {
         --white-500: var(--text-0);
         --redesign-button-overlay-alpha-text: var(--text-2);
         
-        --brand-160: var(--accent-2);
-        --brand-200: var(--accent-2);
+        --brand-230: var(--accent-2);
+        --brand-260: var(--accent-2);
+        --brand-300: var(--accent-2);
+        --brand-400: var(--accent-2);
         --brand-360: var(--accent-2);
         --brand-500: var(--accent-2);
         --blurple-50: var(--accent-2);
