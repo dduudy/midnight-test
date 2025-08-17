@@ -78,7 +78,7 @@ body {
     .sidebar_c48ade /* server list + channel list + user panel group */ {
         margin: 0 var(--gap) var(--gap) var(--gap);
     }
-    .actionButton_f8fa06 /* circle button at the progress bar of videos and audio files */
+    .actionButton_f8fa06 /* circle button at the progress bar of videos and audio files */ {
         background: var(accent-2);
     }
     .guilds_c48ade /* server list */ {
