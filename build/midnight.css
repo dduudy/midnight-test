@@ -79,8 +79,7 @@ body {
         margin: 0 var(--gap) var(--gap) var(--gap);
     }
     .actionButton_f8fa06 /* circle button at the progress bar of videos and audio files */
-        border: none!important;
-        background: var(accent-5);
+        background: var(accent-2);
     }
     .guilds_c48ade /* server list */ {
         margin-bottom: calc(var(--custom-app-panels-height, 0) + var(--gap));
